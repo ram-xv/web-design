@@ -1,6 +1,6 @@
 # UI/UX Web Design Project
 
-### About This Project
+## About This Project
 
 This project is from Jonas Schmedtmann course in Udemy, if you are intereest in the course click [here](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
 
@@ -23,6 +23,5 @@ The main goal of this project was to put into practice the concepts of UI/UX on 
 ![The project images](img/first%20section.png)
 ![The project images](img/middle%20section.png)
 ![The project images](img/final%20section.png)
-
 
 To see the project in deploy click [here](https://web-design-project-livid.vercel.app/#).
