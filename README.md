@@ -12,8 +12,10 @@ The main goal of this project was to put into practice the concepts of UI/UX on 
 
 + Images, Illustrations and Icons
 
-+ Shadows 
++ Shadows
 
 + Whitespaces
 
 + Visual Hierarchy
+
+To see the project in deploy click [here](https://web-design-project-livid.vercel.app/#)
