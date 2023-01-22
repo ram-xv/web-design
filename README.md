@@ -18,4 +18,11 @@ The main goal of this project was to put into practice the concepts of UI/UX on 
 
 + Visual Hierarchy
 
-To see the project in deploy click [here](https://web-design-project-livid.vercel.app/#)
+### Poject Images
+
+![The project images](img/first%20section.png)
+![The project images](img/middle%20section.png)
+![The project images](img/final%20section.png)
+
+
+To see the project in deploy click [here](https://web-design-project-livid.vercel.app/#).
